@@ -22,4 +22,8 @@ RSpec.describe "Student" do
       end
     end
   end
+<<<<<<< HEAD
 end
+=======
+end
+>>>>>>> a035ee16e1399ecb00d575a74b5f570c10446e42
